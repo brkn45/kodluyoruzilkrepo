@@ -1,0 +1,30 @@
+.name{
+    color: blueviolet;
+    font-size: 30px;
+    }
+#yellow{
+    color: darkgoldenrod;
+}
+.list{
+    text-align: center;
+    
+} 
+.titleh1{
+    color: brown;
+}
+
+
+h3{
+    color: darkgoldenrod;
+}
+.about{
+    width: 90%;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+ul {
+    text-align: center;
+    list-style: inside;
+  }
